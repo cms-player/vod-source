@@ -13,6 +13,11 @@ Key|Requirement|Note
 `api`|Required|Format is `https://example.com/api.php/provide/vod/`
 `note`|Optional|
 
+## Put your own JSON in this repo
+
+* You can create your JSON file of vod source list, with file name `name.json`, under `public/` folder.
+* **TBD** In CMSPlayer, you can simply type the name of the file (`name`) to fetch this JSON, instead of copying the whole URL into the app.
+
 ## Example
 
 ```
