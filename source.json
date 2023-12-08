@@ -37,10 +37,6 @@
         "api": "https://cj.lziapi.com/api.php/provide/vod/"
     },
     {
-        "name": "大漠资源",
-        "api": "https://damozy.com/api.php/provide/vod/"
-    },
-    {
         "name": "ikun资源",
         "api": "https://ikunzyapi.com/api.php/provide/vod/"
     },
