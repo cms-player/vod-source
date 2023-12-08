@@ -13,7 +13,7 @@
 `api`|必需 / Required|格式为 / Format is `https://example.com/api.php/provide/vod/`
 `note`|可选 / Optional|
 
-## 在本仓库中加入你自己的 JSON /。Put your own JSON in this repo
+## 在本仓库中加入你自己的 JSON / Put your own JSON in this repo
 
 * 你可以创建自己的 VOD JSON 列表并放在这个仓库的 `public/` 文件夹下，以 `name.json` 命名。
 * You can create your JSON file of vod source list, with file name `name.json`, under `public/` folder.
