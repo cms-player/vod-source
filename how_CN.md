@@ -1,6 +1,8 @@
 # 如何导入资源站？
 
-* TestFlight 期间，可以复制粘贴以下两个 JSON 进行测试
+* TestFlight 期间，可以复制粘贴以下两个 JSON 进行测试。
+* 也可以通过本地上传 JSON 文件导入。
+* 注意 JSON 文件格式 **必须** 符合 [这里的描述](https://github.com/cms-player/vod-source/blob/main/README.md)。
 
 ## 需要🪜
 
