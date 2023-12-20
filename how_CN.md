@@ -1,7 +1,7 @@
 # CMSPlayer
 
 * App Store: https://apps.apple.com/us/app/cmsplayer/id6450680262
-* TestFlight: 将购买凭证截图和 Apple ID 私聊 [Telegram](https://t.me/oolongtea99) 或发送至 [cmsplayerapp@gmail.com](mailto:cmsplayerapp@gmail.com) 可加入内测。
+* TestFlight：将购买凭证截图和 Apple ID 私聊 [Telegram](https://t.me/oolongtea99) 或发送至 [cmsplayerapp@gmail.com](mailto:cmsplayerapp@gmail.com) 可加入内测
 * Telegram 群：https://t.me/cmsplayer
 * Telegram 频道：https://t.me/cmsplayerchannel
 
@@ -11,7 +11,6 @@
 
 * 海外 / 国内需要🪜：cms://112233
 * 国内无需🪜：cms://445566
-* 低端影视：cms://ddys
 
 ## 选择 "从 JSON 导入资源站" 并复制下面 URL 进行导入
 
