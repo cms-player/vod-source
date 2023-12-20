@@ -25,6 +25,9 @@
 
 # FAQ
 
+#### Q: App Store 版本和 TestFlight 版本有什么区别？
+A: TestFlight 版更新会快于 App Store；仅 TestFlight 版有下载功能。
+
 #### Q: 会在国区上架吗？
 A: 不会。
 
