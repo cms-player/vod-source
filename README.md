@@ -17,8 +17,6 @@
 
 * 你可以创建自己的 VOD JSON 列表并放在这个仓库的 `public/` 文件夹下，以 `name.json` 命名。
 * You can create your JSON file of vod source list, with file name `name.json`, under `public/` folder.
-* **【仍在开发】** 在 CMSPlayer 中，当从 JSON 添加资源站时，可以输入自己创建的 VOD JSON 文件名称（`name`）来获取 JSON 文件，而不用完整复制整个 URL。
-* **[TBD]** In CMSPlayer, you can simply type the name of the file (`name`) to fetch this JSON, instead of copying the whole URL into the app.
 
 ## 例子 / Example
 
