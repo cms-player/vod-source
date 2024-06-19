@@ -5,6 +5,10 @@
         "note": "需要代理"
     },
     {
+        "name": "黑木耳",
+        "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+    },
+    {
         "name": "低端影视",
         "api": "cms://ddys",
     },
