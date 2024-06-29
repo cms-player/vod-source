@@ -9,6 +9,10 @@
         "api": "https://json.heimuer.xyz/api.php/provide/vod/",
     },
     {
+        "name": "华为8",
+        "api": "https://hw8.live/api.php/provide/vod/",
+    },
+    {
         "name": "低端影视",
         "api": "cms://ddys",
     },
