@@ -9,7 +9,7 @@
         "api": "https://json.heimuer.xyz/api.php/provide/vod/",
     },
     {
-        "name": "华为8",
+        "name": "华为吧",
         "api": "https://hw8.live/api.php/provide/vod/",
     },
     {
@@ -19,10 +19,6 @@
     {
         "name": "在线之家",
         "api": "cms://zxzj",
-    },
-    {
-        "name": "欧乐影院",
-        "api": "cms://ole",
     },
     {
         "name": "极速资源",
