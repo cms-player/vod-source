@@ -1,10 +1,5 @@
 [
     {
-        "name": "海外看",
-        "api": "https://haiwaikan.com/api.php/provide/vod/",
-        "note": "需要代理"
-    },
-    {
         "name": "黑木耳",
         "api": "https://json.heimuer.xyz/api.php/provide/vod/",
     },
